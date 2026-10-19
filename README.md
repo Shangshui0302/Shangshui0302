@@ -30,6 +30,13 @@ For project stories and technical notes, visit my personal website, <a href="htt
   <img src="assets/badge-git.svg" alt="Git" height="28">
 </p>
 
+<a href="https://ghfind.com/u/shangshui0302?ref=badge">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/shangshui0302?theme=dark" />
+    <img src="https://ghfind.com/api/card/mini/shangshui0302?theme=light" alt="GitHub Roast 评分卡" width="440" />
+  </picture>
+</a>
+
 <h2>01 / Selected work · 几个公开项目</h2>
 
 <table>
